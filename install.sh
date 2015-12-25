@@ -20,4 +20,4 @@ cd openjpeg-2.0.1/
 sudo apt-get install cmake -y
 cmake .
 sudo make install -y
-sudo pip install pillow --update
+sudo pip install pillow --upgrade
